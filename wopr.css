@@ -1,6 +1,19 @@
 
+@font-face {
+
+  font-family: 'raster';
+  src: url(font/wopr2.ttf) format('truetype');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
 .wopr {
 
+  padding: 0.25%;
   background-color: #1b2126;
   color: #3eadf7;
+  font-family: 'raster', monospace;
+  font-size: 2em;
+
 }
