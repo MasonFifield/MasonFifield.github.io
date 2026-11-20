@@ -36,3 +36,21 @@
   font-size: 3em;
 
 }
+
+.boot {
+  height: 100%;
+  width: 100%;
+  position: fixed;
+  z-index: 999;
+  background-color: black;
+  color: lime;
+  padding-left: 5%;
+  font-family: 'terminal', 'consolas', monospace;
+  font-size: 2em;
+}
+
+.boot.hidden {
+  opacity: 0;
+  visibility: hidden;
+  pointer-events: none;
+}
