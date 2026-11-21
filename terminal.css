@@ -26,6 +26,7 @@
   color: lime;
   font-family: 'terminal', 'consolas', monospace;
   font-size: 1.5em;
+  margin: 3%;
 
 }
 
@@ -34,6 +35,21 @@
   color: lime;
   font-family: 'terminal', 'consolas', monospace;
   font-size: 3em;
+
+}
+
+.termh2 {
+
+  color: lime;
+  font-family: 'terminal', 'consolas', monospace;
+  font-size: 2.25em;
+
+}
+
+.termhr {
+
+  border: 0;
+  border-top: 2px solid lime;
 
 }
 
