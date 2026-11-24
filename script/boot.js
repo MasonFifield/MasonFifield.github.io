@@ -22,7 +22,7 @@ window.addEventListener("load", () => {
   const seg1 = bootLines.slice(0,13);
   const seg2 = bootLines.slice(13,19);
   const seg3 = bootLines.slice(19,28);
-  const seg4 = bootLines.slice(28,29);
+  const seg4 = bootLines.slice(28,31);
   initOutputs();
 
   //make the words and such
